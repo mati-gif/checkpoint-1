@@ -44,6 +44,16 @@ body{
     text-align: center;
 }
 
+.nav-item{
+    text-decoration: none;
+    padding: 3px ;
+    color: #fff ;
+    background-color: #587;
+    width: 100vw;
+    text-align: center;
+}
+
+
 .nav-link:hover{
     border: 1px solid #000;
     background-color: #582;
